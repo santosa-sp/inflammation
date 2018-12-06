@@ -1,4 +1,4 @@
-Project Concept:
+KProject Concept:
 Some data analysis to identify how inflammation changes over time after surgery.
 Jane is a Data Scientist and Samit is a Statistician.
 
@@ -9,3 +9,4 @@ They need to be competent in R and python, matplotlib and ggplot.
 Rob's line.
 Jack's line
 Robs conflict line
+I'm causing a conflict
