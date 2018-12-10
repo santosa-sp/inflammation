@@ -14,3 +14,6 @@ New conflict
 Rob's second conflict
 
 How the infammation change after the surgery - 10 December 2018
+
+Test case: right ear swollen to size of christmas pudding.
+
